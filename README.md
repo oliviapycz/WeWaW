@@ -3,7 +3,7 @@
 
 >WeWaW est une application de gestion de Dîner.
 
->Avec WeWaW vous pouvez gérer votre répertoire d'invités, la bibliothèque de recettes que vous avez préparée ainsi que les dîners que vous avez organisés.
+>Avec WeWaW vous pouvez gérer votre répertoire d'invités, la bibliothèque de recettes que vous avez préparé ainsi que les dîners que vous avez organisés.
 
 ## Functionalities
 
